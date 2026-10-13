@@ -11,6 +11,7 @@ package controlversionescv;
 public class PruebaAlen {
     public static void main(String[] args) {
         System.out.println("Hola desde Alen");
+        int edad = 23;
     }
             
 }

@@ -22,5 +22,6 @@ public class ControlVersionesCV {
         System.out.println("Anthony Semblantes");
         System.out.println("Evelyn Cardenas");
         System.out.println("P11");
+        System.out.println("p12");
     }
 }

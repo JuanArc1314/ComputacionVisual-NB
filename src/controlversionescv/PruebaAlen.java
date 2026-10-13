@@ -13,7 +13,7 @@ public class PruebaAlen {
         System.out.println("Hola desde Alen");
         int edad = 23;
         int resuktado =0;
-        System.out.println("hola12");
+        System.out.println("hola12 alen");
     }
             
 }

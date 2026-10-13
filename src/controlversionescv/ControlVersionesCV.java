@@ -14,7 +14,10 @@ public class ControlVersionesCV {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        saludar();
     }
     
+    public static void saludar(){
+        System.out.println("Hola mundo");
+    }
 }

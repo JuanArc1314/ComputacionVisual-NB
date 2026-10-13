@@ -18,7 +18,7 @@ public class ControlVersionesCV {
     }
     
     public static void saludar(){
-        System.out.println("Hola mundo");
+        System.out.println("Hola soy Juan Arcos");
         System.out.println("Anthony Semblantes");
         System.out.println("Evelyn Cardenas");
         System.out.println("P11");

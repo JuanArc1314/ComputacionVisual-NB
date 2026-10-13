@@ -15,9 +15,5 @@ public class PruebaAlen {
         int resuktado =0;
         System.out.println("hola12 alen");
     }
-    
-    public void David (){
-        System.out.println("Hola soy David 23 años");
-    }
             
 }

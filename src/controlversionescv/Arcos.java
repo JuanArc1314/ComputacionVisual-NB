@@ -18,4 +18,8 @@ public class Arcos {
 public void metodo(){
      //HOLAAA
 }
+
+public void metodo2(){
+     //HOLAAA
+}
 }

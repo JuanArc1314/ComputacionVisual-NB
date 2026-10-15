@@ -14,6 +14,7 @@ public class PruebaAlen {
         int edad = 23;
         int resuktado =0;
         System.out.println("hola12 alen");
+        System.out.println("p14");
     }
             
-}
+}   

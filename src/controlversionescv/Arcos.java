@@ -15,4 +15,7 @@ public class Arcos {
     //David Salinas
     //Semblantes
     //Mateo
+public void metodo(){
+     //HOLAAA
+}
 }
